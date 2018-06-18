@@ -2,7 +2,7 @@
 
 def pdfval(dist,a,b):
     """
-    Function to calculate differen probability distributions
+    Function to calculate different probability distributions
     
     Author: Jose Manuel Sojo Gordillo: Jmanuelsojo94@gmail.com
     Created on Wed May 23 2018
