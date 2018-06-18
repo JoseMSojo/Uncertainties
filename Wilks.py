@@ -2,8 +2,8 @@
 
 def Wilks(m, N, alpha):
     """
-    Function that calculates the confidence level that a new random case will
-    be inside the fractile alpha selected given the number of cases run.
+    Function which calculates the confidence level of a new random case being
+    inside the selected fractile alpha given the number of run cases.
     
     Author: Jose Manuel Sojo Gordillo: Jmanuelsojo94@gmail.com
     Created on Fri May 11 2018
